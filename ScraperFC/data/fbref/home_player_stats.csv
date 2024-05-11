@@ -1,0 +1,536 @@
+,Team Sheet,Summary,GK,Passing,Pass Types,Defense,Possession,Misc
+0,"   Milan (4-2-3-1)    Milan (4-2-3-1).1
+0               16         Mike Maignan
+1                2      Davide Calabria
+2                4      Ismaël Bennacer
+3                7          Yacine Adli
+4                8   Ruben Loftus-Cheek
+5                9       Olivier Giroud
+6               10          Rafael Leão
+7               11    Christian Pulisic
+8               19       Theo Hernández
+9               24           Simon Kjær
+10              46        Matteo Gabbia
+11           Bench                Bench
+12              57     Marco Sportiello
+13              83      Antonio Mirante
+14              15           Luka Jović
+15              17          Noah Okafor
+16              38  Filippo Terracciano
+17              42  Alessandro Florenzi
+18              74    Alejandro Jiménez
+19              80          Yunus Musah
+20              81   Victor Ehuwa Eletu
+21              82      Jan-Carlo Simic","     Unnamed: 0_level_0 Unnamed: 1_level_0 Unnamed: 2_level_0  \
+                 Player                  #             Nation   
+0        Olivier Giroud                9.0             fr FRA   
+1            Luka Jović               15.0             rs SRB   
+2           Rafael Leão               10.0             pt POR   
+3     Christian Pulisic               11.0             us USA   
+4     Alejandro Jiménez               74.0             es ESP   
+5    Ruben Loftus-Cheek                8.0            eng ENG   
+6       Ismaël Bennacer                4.0             dz ALG   
+7           Yunus Musah               80.0             us USA   
+8           Yacine Adli                7.0             fr FRA   
+9        Theo Hernández               19.0             fr FRA   
+10        Matteo Gabbia               46.0             it ITA   
+11           Simon Kjær               24.0             dk DEN   
+12      Jan-Carlo Simic               82.0             rs SRB   
+13      Davide Calabria                2.0             it ITA   
+14  Alessandro Florenzi               42.0             it ITA   
+15         Mike Maignan               16.0             fr FRA   
+16           16 Players                NaN                NaN   
+
+   Unnamed: 3_level_0 Unnamed: 4_level_0 Unnamed: 5_level_0 Performance      \
+                  Pos                Age                Min         Gls Ast   
+0                  FW             37-134                 79           0   0   
+1                  FW             26-050                 11           0   0   
+2               LW,FW             24-246                 90           0   1   
+3                  RW             25-146                 80           0   0   
+4                  LB             18-279                 10           0   0   
+5               AM,CM             28-019                 90           0   0   
+6                  DM             26-072                 64           0   0   
+7               CM,DM             21-074                 26           0   0   
+8               DM,CM             23-197                 90           0   0   
+9               LB,CB             26-128                 90           1   0   
+10                 CB             24-113                 90           0   0   
+11                 CB             34-322                 65           0   0   
+12                 CB             18-285                 25           0   0   
+13                 RB             27-067                 36           0   0   
+14                 RB             32-337                 54           0   0   
+15                 GK             28-223                 90           0   0   
+16                NaN                NaN                990           1   1   
+
+             ... SCA Passes                  Carries      Take-Ons       \
+   PK PKatt  ... GCA    Cmp  Att   Cmp% PrgP Carries PrgC      Att Succ   
+0   0     0  ...   1     12   17   70.6    0      14    0        0    0   
+1   0     0  ...   0      1    4   25.0    1       3    0        0    0   
+2   0     0  ...   1     25   34   73.5    8      31    5        4    2   
+3   0     0  ...   0     17   23   73.9    1      19    2        2    0   
+4   0     0  ...   0      4    4  100.0    0       1    0        0    0   
+5   0     0  ...   0     24   33   72.7    2      20    3        2    1   
+6   0     0  ...   0     42   50   84.0    2      33    2        3    2   
+7   0     0  ...   0      5    5  100.0    2       4    0        0    0   
+8   0     0  ...   0     47   56   83.9    5      33    1        1    0   
+9   0     0  ...   0     45   57   78.9    3      37    2        2    0   
+10  0     0  ...   0     28   32   87.5    0      17    0        0    0   
+11  0     0  ...   0     30   35   85.7    2      19    0        0    0   
+12  0     0  ...   0      4    5   80.0    0       3    0        0    0   
+13  0     0  ...   0     18   21   85.7    1      13    2        1    0   
+14  0     0  ...   0     14   19   73.7    3       5    0        0    0   
+15  0     0  ...   0     20   37   54.1    0      23    0        0    0   
+16  0     0  ...   2    336  432   77.8   30     275   17       15    5   
+
+   Player ID  
+              
+0   16ceb862  
+1   4d8cd038  
+2   20730eae  
+3   1bf33a9a  
+4   faa13947  
+5   e97fd090  
+6   db092d3b  
+7   b51b1b9c  
+8   26777636  
+9   d4c9725f  
+10  c235e803  
+11  8b8a56ce  
+12  c9fc39ce  
+13  2146785a  
+14  e288d4b3  
+15  fcb38f57  
+16            
+
+[17 rows x 32 columns]","  Unnamed: 0_level_0 Unnamed: 1_level_0 Unnamed: 2_level_0 Unnamed: 3_level_0  \
+              Player             Nation                Age                Min   
+0       Mike Maignan             fr FRA             28-223                 90   
+
+  Shot Stopping                      Launched  ... Passes Goal Kicks          \
+           SoTA GA Saves  Save% PSxG      Cmp  ... AvgLen        Att Launch%   
+0             2  0     2  100.0  0.1        3  ...   38.0          7    85.7   
+
+         Crosses          Sweeper         Player ID  
+  AvgLen     Opp Stp Stp%    #OPA AvgDist            
+0   60.7      10   0  0.0       1    17.5  fcb38f57  
+
+[1 rows x 25 columns]","     Unnamed: 0_level_0 Unnamed: 1_level_0 Unnamed: 2_level_0  \
+                 Player                  #             Nation   
+0        Olivier Giroud                9.0             fr FRA   
+1            Luka Jović               15.0             rs SRB   
+2           Rafael Leão               10.0             pt POR   
+3     Christian Pulisic               11.0             us USA   
+4     Alejandro Jiménez               74.0             es ESP   
+5    Ruben Loftus-Cheek                8.0            eng ENG   
+6       Ismaël Bennacer                4.0             dz ALG   
+7           Yunus Musah               80.0             us USA   
+8           Yacine Adli                7.0             fr FRA   
+9        Theo Hernández               19.0             fr FRA   
+10        Matteo Gabbia               46.0             it ITA   
+11           Simon Kjær               24.0             dk DEN   
+12      Jan-Carlo Simic               82.0             rs SRB   
+13      Davide Calabria                2.0             it ITA   
+14  Alessandro Florenzi               42.0             it ITA   
+15         Mike Maignan               16.0             fr FRA   
+16           16 Players                NaN                NaN   
+
+   Unnamed: 3_level_0 Unnamed: 4_level_0 Unnamed: 5_level_0 Total              \
+                  Pos                Age                Min   Cmp  Att   Cmp%   
+0                  FW             37-134                 79    12   17   70.6   
+1                  FW             26-050                 11     1    4   25.0   
+2               LW,FW             24-246                 90    25   34   73.5   
+3                  RW             25-146                 80    17   23   73.9   
+4                  LB             18-279                 10     4    4  100.0   
+5               AM,CM             28-019                 90    24   33   72.7   
+6                  DM             26-072                 64    42   50   84.0   
+7               CM,DM             21-074                 26     5    5  100.0   
+8               DM,CM             23-197                 90    47   56   83.9   
+9               LB,CB             26-128                 90    45   57   78.9   
+10                 CB             24-113                 90    28   32   87.5   
+11                 CB             34-322                 65    30   35   85.7   
+12                 CB             18-285                 25     4    5   80.0   
+13                 RB             27-067                 36    18   21   85.7   
+14                 RB             32-337                 54    14   19   73.7   
+15                 GK             28-223                 90    20   37   54.1   
+16                NaN                NaN                990   336  432   77.8   
+
+            ...   Long Unnamed: 20_level_0 Unnamed: 21_level_0  \
+   TotDist  ...   Cmp%                 Ast                 xAG   
+0      137  ...    NaN                   0                 0.0   
+1       30  ...  100.0                   0                 0.0   
+2      446  ...   66.7                   1                 0.3   
+3      216  ...    NaN                   0                 0.0   
+4       54  ...    NaN                   0                 0.0   
+5      334  ...    0.0                   0                 0.0   
+6      642  ...  100.0                   0                 0.0   
+7       85  ...    NaN                   0                 0.1   
+8      777  ...   71.4                   0                 0.1   
+9      684  ...   25.0                   0                 0.0   
+10     495  ...   25.0                   0                 0.0   
+11     539  ...   50.0                   0                 0.0   
+12      79  ...    0.0                   0                 0.0   
+13     264  ...   50.0                   0                 0.0   
+14     255  ...  100.0                   0                 0.0   
+15     560  ...   34.8                   0                 0.0   
+16    5597  ...   45.2                   1                 0.5   
+
+   Unnamed: 22_level_0 Unnamed: 23_level_0 Unnamed: 24_level_0  \
+                    xA                  KP                 1/3   
+0                  0.1                   0                   0   
+1                  0.0                   0                   0   
+2                  0.2                   1                   5   
+3                  0.0                   0                   0   
+4                  0.0                   0                   0   
+5                  0.0                   2                   1   
+6                  0.0                   0                   3   
+7                  0.0                   1                   2   
+8                  0.0                   2                   4   
+9                  0.1                   0                   4   
+10                 0.0                   1                   0   
+11                 0.0                   0                   1   
+12                 0.0                   0                   0   
+13                 0.0                   0                   1   
+14                 0.1                   0                   2   
+15                 0.0                   0                   0   
+16                 0.5                   7                  23   
+
+   Unnamed: 25_level_0 Unnamed: 26_level_0 Unnamed: 27_level_0 Player ID  
+                   PPA               CrsPA                PrgP            
+0                    0                   0                   0  16ceb862  
+1                    0                   0                   1  4d8cd038  
+2                    2                   1                   8  20730eae  
+3                    1                   0                   1  1bf33a9a  
+4                    0                   0                   0  faa13947  
+5                    2                   0                   2  e97fd090  
+6                    0                   0                   2  db092d3b  
+7                    0                   0                   2  b51b1b9c  
+8                    0                   0                   5  26777636  
+9                    1                   1                   3  d4c9725f  
+10                   0                   0                   0  c235e803  
+11                   0                   0                   2  8b8a56ce  
+12                   0                   0                   0  c9fc39ce  
+13                   0                   0                   1  2146785a  
+14                   1                   0                   3  e288d4b3  
+15                   0                   0                   0  fcb38f57  
+16                   7                   2                  30            
+
+[17 rows x 29 columns]","     Unnamed: 0_level_0 Unnamed: 1_level_0 Unnamed: 2_level_0  \
+                 Player                  #             Nation   
+0        Olivier Giroud                9.0             fr FRA   
+1            Luka Jović               15.0             rs SRB   
+2           Rafael Leão               10.0             pt POR   
+3     Christian Pulisic               11.0             us USA   
+4     Alejandro Jiménez               74.0             es ESP   
+5    Ruben Loftus-Cheek                8.0            eng ENG   
+6       Ismaël Bennacer                4.0             dz ALG   
+7           Yunus Musah               80.0             us USA   
+8           Yacine Adli                7.0             fr FRA   
+9        Theo Hernández               19.0             fr FRA   
+10        Matteo Gabbia               46.0             it ITA   
+11           Simon Kjær               24.0             dk DEN   
+12      Jan-Carlo Simic               82.0             rs SRB   
+13      Davide Calabria                2.0             it ITA   
+14  Alessandro Florenzi               42.0             it ITA   
+15         Mike Maignan               16.0             fr FRA   
+16           16 Players                NaN                NaN   
+
+   Unnamed: 3_level_0 Unnamed: 4_level_0 Unnamed: 5_level_0  \
+                  Pos                Age                Min   
+0                  FW             37-134                 79   
+1                  FW             26-050                 11   
+2               LW,FW             24-246                 90   
+3                  RW             25-146                 80   
+4                  LB             18-279                 10   
+5               AM,CM             28-019                 90   
+6                  DM             26-072                 64   
+7               CM,DM             21-074                 26   
+8               DM,CM             23-197                 90   
+9               LB,CB             26-128                 90   
+10                 CB             24-113                 90   
+11                 CB             34-322                 65   
+12                 CB             18-285                 25   
+13                 RB             27-067                 36   
+14                 RB             32-337                 54   
+15                 GK             28-223                 90   
+16                NaN                NaN                990   
+
+   Unnamed: 6_level_0 Pass Types           ...            Corner Kicks      \
+                  Att       Live Dead  FK  ... Crs  TI CK           In Out   
+0                  17         17    0   0  ...   0   0  0            0   0   
+1                   4          3    0   0  ...   0   0  0            0   0   
+2                  34         34    0   0  ...   5   0  0            0   0   
+3                  23         22    1   0  ...   3   1  0            0   0   
+4                   4          1    3   0  ...   0   3  0            0   0   
+5                  33         32    1   0  ...   0   0  0            0   0   
+6                  50         49    1   1  ...   0   0  0            0   0   
+7                   5          5    0   0  ...   0   0  0            0   0   
+8                  56         52    4   3  ...   2   0  1            0   1   
+9                  57         47   10   2  ...   3   8  0            0   0   
+10                 32         30    2   2  ...   0   0  0            0   0   
+11                 35         34    1   1  ...   0   0  0            0   0   
+12                  5          4    1   1  ...   0   0  0            0   0   
+13                 21         17    4   1  ...   0   3  0            0   0   
+14                 19         10    9   0  ...   0   9  0            0   0   
+15                 37         26    9   2  ...   0   0  0            0   0   
+16                432        383   46  13  ...  13  24  1            0   1   
+
+       Outcomes            Player ID  
+   Str      Cmp Off Blocks            
+0    0       12   0      1  16ceb862  
+1    0        1   1      0  4d8cd038  
+2    0       25   0      1  20730eae  
+3    0       17   0      2  1bf33a9a  
+4    0        4   0      0  faa13947  
+5    0       24   0      0  e97fd090  
+6    0       42   0      0  db092d3b  
+7    0        5   0      0  b51b1b9c  
+8    0       47   0      1  26777636  
+9    0       45   0      2  d4c9725f  
+10   0       28   0      0  c235e803  
+11   0       30   0      0  8b8a56ce  
+12   0        4   0      0  c9fc39ce  
+13   0       18   0      1  2146785a  
+14   0       14   0      1  e288d4b3  
+15   0       20   2      0  fcb38f57  
+16   0      336   3      9            
+
+[17 rows x 22 columns]","     Unnamed: 0_level_0 Unnamed: 1_level_0 Unnamed: 2_level_0  \
+                 Player                  #             Nation   
+0        Olivier Giroud                9.0             fr FRA   
+1            Luka Jović               15.0             rs SRB   
+2           Rafael Leão               10.0             pt POR   
+3     Christian Pulisic               11.0             us USA   
+4     Alejandro Jiménez               74.0             es ESP   
+5    Ruben Loftus-Cheek                8.0            eng ENG   
+6       Ismaël Bennacer                4.0             dz ALG   
+7           Yunus Musah               80.0             us USA   
+8           Yacine Adli                7.0             fr FRA   
+9        Theo Hernández               19.0             fr FRA   
+10        Matteo Gabbia               46.0             it ITA   
+11           Simon Kjær               24.0             dk DEN   
+12      Jan-Carlo Simic               82.0             rs SRB   
+13      Davide Calabria                2.0             it ITA   
+14  Alessandro Florenzi               42.0             it ITA   
+15         Mike Maignan               16.0             fr FRA   
+16           16 Players                NaN                NaN   
+
+   Unnamed: 3_level_0 Unnamed: 4_level_0 Unnamed: 5_level_0 Tackles       \
+                  Pos                Age                Min     Tkl TklW   
+0                  FW             37-134                 79       1    1   
+1                  FW             26-050                 11       0    0   
+2               LW,FW             24-246                 90       2    1   
+3                  RW             25-146                 80       1    1   
+4                  LB             18-279                 10       0    0   
+5               AM,CM             28-019                 90       1    1   
+6                  DM             26-072                 64       3    1   
+7               CM,DM             21-074                 26       0    0   
+8               DM,CM             23-197                 90       1    0   
+9               LB,CB             26-128                 90       4    1   
+10                 CB             24-113                 90       3    2   
+11                 CB             34-322                 65       2    2   
+12                 CB             18-285                 25       0    0   
+13                 RB             27-067                 36       1    0   
+14                 RB             32-337                 54       2    1   
+15                 GK             28-223                 90       0    0   
+16                NaN                NaN                990      21   11   
+
+                    ... Challenges      Blocks         Unnamed: 18_level_0  \
+   Def 3rd Mid 3rd  ...       Tkl% Lost Blocks Sh Pass                 Int   
+0        1       0  ...        NaN    0      0  0    0                   0   
+1        0       0  ...        NaN    0      0  0    0                   0   
+2        1       1  ...      100.0    0      0  0    0                   0   
+3        1       0  ...        NaN    0      0  0    0                   1   
+4        0       0  ...        NaN    0      0  0    0                   0   
+5        0       0  ...        0.0    1      2  2    0                   1   
+6        2       1  ...       75.0    1      0  0    0                   2   
+7        0       0  ...        NaN    0      1  0    1                   0   
+8        1       0  ...        NaN    0      3  0    3                   1   
+9        3       1  ...      100.0    0      0  0    0                   1   
+10       1       2  ...        0.0    1      1  0    1                   0   
+11       1       1  ...       33.3    2      1  1    0                   0   
+12       0       0  ...        NaN    0      1  1    0                   0   
+13       0       1  ...       33.3    2      0  0    0                   0   
+14       1       1  ...      100.0    0      0  0    0                   1   
+15       0       0  ...        NaN    0      0  0    0                   0   
+16      12       8  ...       58.8    7      9  4    5                   7   
+
+   Unnamed: 19_level_0 Unnamed: 20_level_0 Unnamed: 21_level_0 Player ID  
+               Tkl+Int                 Clr                 Err            
+0                    1                   1                   0  16ceb862  
+1                    0                   0                   0  4d8cd038  
+2                    2                   0                   0  20730eae  
+3                    2                   0                   0  1bf33a9a  
+4                    0                   2                   0  faa13947  
+5                    2                   0                   0  e97fd090  
+6                    5                   1                   1  db092d3b  
+7                    0                   0                   0  b51b1b9c  
+8                    2                   3                   0  26777636  
+9                    5                   0                   0  d4c9725f  
+10                   3                   3                   0  c235e803  
+11                   2                   4                   0  8b8a56ce  
+12                   0                   1                   0  c9fc39ce  
+13                   1                   0                   0  2146785a  
+14                   3                   0                   0  e288d4b3  
+15                   0                   0                   0  fcb38f57  
+16                  28                  15                   1            
+
+[17 rows x 23 columns]","     Unnamed: 0_level_0 Unnamed: 1_level_0 Unnamed: 2_level_0  \
+                 Player                  #             Nation   
+0        Olivier Giroud                9.0             fr FRA   
+1            Luka Jović               15.0             rs SRB   
+2           Rafael Leão               10.0             pt POR   
+3     Christian Pulisic               11.0             us USA   
+4     Alejandro Jiménez               74.0             es ESP   
+5    Ruben Loftus-Cheek                8.0            eng ENG   
+6       Ismaël Bennacer                4.0             dz ALG   
+7           Yunus Musah               80.0             us USA   
+8           Yacine Adli                7.0             fr FRA   
+9        Theo Hernández               19.0             fr FRA   
+10        Matteo Gabbia               46.0             it ITA   
+11           Simon Kjær               24.0             dk DEN   
+12      Jan-Carlo Simic               82.0             rs SRB   
+13      Davide Calabria                2.0             it ITA   
+14  Alessandro Florenzi               42.0             it ITA   
+15         Mike Maignan               16.0             fr FRA   
+16           16 Players                NaN                NaN   
+
+   Unnamed: 3_level_0 Unnamed: 4_level_0 Unnamed: 5_level_0 Touches          \
+                  Pos                Age                Min Touches Def Pen   
+0                  FW             37-134                 79      28       1   
+1                  FW             26-050                 11       5       0   
+2               LW,FW             24-246                 90      43       0   
+3                  RW             25-146                 80      31       0   
+4                  LB             18-279                 10       6       0   
+5               AM,CM             28-019                 90      43       3   
+6                  DM             26-072                 64      62       3   
+7               CM,DM             21-074                 26       7       1   
+8               DM,CM             23-197                 90      71       4   
+9               LB,CB             26-128                 90      66       3   
+10                 CB             24-113                 90      42       5   
+11                 CB             34-322                 65      42       5   
+12                 CB             18-285                 25       7       2   
+13                 RB             27-067                 36      24       0   
+14                 RB             32-337                 54      26       3   
+15                 GK             28-223                 90      38      31   
+16                NaN                NaN                990     541      61   
+
+                    ... Carries                              Receiving       \
+   Def 3rd Mid 3rd  ... TotDist PrgDist PrgC 1/3 CPA Mis Dis       Rec PrgR   
+0        2      13  ...      49      13    0   1   0   5   0        20    4   
+1        0       4  ...      24      21    0   0   0   0   0         4    0   
+2        4      19  ...     205     133    5   2   3   0   2        35    8   
+3        4      16  ...     137      60    2   1   1   2   1        24    4   
+4        3       2  ...       3       0    0   0   0   0   0         1    0   
+5       11      18  ...     175     121    3   4   0   3   1        29    4   
+6       14      37  ...     209      88    2   1   1   2   1        41    2   
+7        3       4  ...      21       1    0   0   0   0   1         2    0   
+8       22      36  ...     208      64    1   1   0   2   0        43    0   
+9       20      31  ...     281     208    2   2   1   0   1        36    6   
+10      26      15  ...      94      24    0   0   0   1   0        24    0   
+11      23      19  ...      66      26    0   0   0   0   0        27    0   
+12       4       3  ...      27       2    0   0   0   0   0         3    0   
+13       1      21  ...      69      53    2   0   0   1   2        16    0   
+14      10      12  ...      17       2    0   1   0   1   0         6    1   
+15      38       0  ...     110      62    0   0   0   0   0        19    0   
+16     185     250  ...    1695     878   17  13   6  17   9       330   29   
+
+   Player ID  
+              
+0   16ceb862  
+1   4d8cd038  
+2   20730eae  
+3   1bf33a9a  
+4   faa13947  
+5   e97fd090  
+6   db092d3b  
+7   b51b1b9c  
+8   26777636  
+9   d4c9725f  
+10  c235e803  
+11  8b8a56ce  
+12  c9fc39ce  
+13  2146785a  
+14  e288d4b3  
+15  fcb38f57  
+16            
+
+[17 rows x 29 columns]","     Unnamed: 0_level_0 Unnamed: 1_level_0 Unnamed: 2_level_0  \
+                 Player                  #             Nation   
+0        Olivier Giroud                9.0             fr FRA   
+1            Luka Jović               15.0             rs SRB   
+2           Rafael Leão               10.0             pt POR   
+3     Christian Pulisic               11.0             us USA   
+4     Alejandro Jiménez               74.0             es ESP   
+5    Ruben Loftus-Cheek                8.0            eng ENG   
+6       Ismaël Bennacer                4.0             dz ALG   
+7           Yunus Musah               80.0             us USA   
+8           Yacine Adli                7.0             fr FRA   
+9        Theo Hernández               19.0             fr FRA   
+10        Matteo Gabbia               46.0             it ITA   
+11           Simon Kjær               24.0             dk DEN   
+12      Jan-Carlo Simic               82.0             rs SRB   
+13      Davide Calabria                2.0             it ITA   
+14  Alessandro Florenzi               42.0             it ITA   
+15         Mike Maignan               16.0             fr FRA   
+16           16 Players                NaN                NaN   
+
+   Unnamed: 3_level_0 Unnamed: 4_level_0 Unnamed: 5_level_0 Performance       \
+                  Pos                Age                Min        CrdY CrdR   
+0                  FW             37-134                 79           0    0   
+1                  FW             26-050                 11           0    0   
+2               LW,FW             24-246                 90           0    0   
+3                  RW             25-146                 80           0    0   
+4                  LB             18-279                 10           0    0   
+5               AM,CM             28-019                 90           0    0   
+6                  DM             26-072                 64           0    0   
+7               CM,DM             21-074                 26           0    0   
+8               DM,CM             23-197                 90           0    0   
+9               LB,CB             26-128                 90           1    0   
+10                 CB             24-113                 90           0    0   
+11                 CB             34-322                 65           0    0   
+12                 CB             18-285                 25           0    0   
+13                 RB             27-067                 36           0    0   
+14                 RB             32-337                 54           0    0   
+15                 GK             28-223                 90           0    0   
+16                NaN                NaN                990           1    0   
+
+              ...                               Aerial Duels              \
+   2CrdY Fls  ... Int TklW PKwon PKcon OG Recov          Won Lost   Won%   
+0      0   0  ...   0    1     0     0  0     0            1    4   20.0   
+1      0   0  ...   0    0     0     0  0     2            1    1   50.0   
+2      0   1  ...   0    1     0     0  0     7            2    0  100.0   
+3      0   0  ...   1    1     0     0  0     4            0    2    0.0   
+4      0   0  ...   0    0     0     0  0     0            0    0    NaN   
+5      0   1  ...   1    1     0     0  0     6            3    1   75.0   
+6      0   0  ...   2    1     0     0  0     5            1    2   33.3   
+7      0   0  ...   0    0     0     0  0     2            1    0  100.0   
+8      0   1  ...   1    0     0     0  0     6            2    0  100.0   
+9      0   3  ...   1    1     0     0  0     9            1    1   50.0   
+10     0   2  ...   0    2     0     0  0     2            0    0    NaN   
+11     0   0  ...   0    2     0     0  0     3            1    0  100.0   
+12     0   0  ...   0    0     0     0  0     0            0    0    NaN   
+13     0   0  ...   0    0     0     0  0     1            1    1   50.0   
+14     0   1  ...   1    1     0     0  0     2            0    0    NaN   
+15     0   0  ...   0    0     0     0  0     1            1    0  100.0   
+16     0   9  ...   7   11     0     0  0    50           15   12   55.6   
+
+   Player ID  
+              
+0   16ceb862  
+1   4d8cd038  
+2   20730eae  
+3   1bf33a9a  
+4   faa13947  
+5   e97fd090  
+6   db092d3b  
+7   b51b1b9c  
+8   26777636  
+9   d4c9725f  
+10  c235e803  
+11  8b8a56ce  
+12  c9fc39ce  
+13  2146785a  
+14  e288d4b3  
+15  fcb38f57  
+16            
+
+[17 rows x 23 columns]"

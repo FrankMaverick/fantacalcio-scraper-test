@@ -1,0 +1,125 @@
+,Both
+0,"   Unnamed: 0_level_0          Unnamed: 1_level_0 Unnamed: 2_level_0  \
+               Minute                      Player              Squad   
+0                10.0            Giovanni Simeone             Napoli   
+1                25.0              Theo Hernández              Milan   
+2                28.0                 Rafael Leão              Milan   
+3                35.0               Matteo Gabbia              Milan   
+5                48.0         Alessandro Florenzi              Milan   
+6                48.0              Olivier Giroud              Milan   
+7                50.0             Matteo Politano             Napoli   
+8                51.0           Christian Pulisic              Milan   
+9                53.0             Ismaël Bennacer              Milan   
+10               53.0                 Rafael Leão              Milan   
+11               54.0            Giovanni Simeone             Napoli   
+12               56.0             Matteo Politano             Napoli   
+13               60.0             Matteo Politano             Napoli   
+14               62.0              Theo Hernández              Milan   
+15               68.0       Khvicha Kvaratskhelia             Napoli   
+16               70.0                 Rafael Leão              Milan   
+17               74.0          Pasquale Mazzocchi             Napoli   
+18               79.0             Matteo Politano             Napoli   
+19               80.0            Jesper Lindstrøm             Napoli   
+20               83.0  Andre-Frank Zambo Anguissa             Napoli   
+21               89.0         Giovanni Di Lorenzo             Napoli   
+22               90.0               Amir Rrahmani             Napoli   
+
+   Unnamed: 3_level_0 Unnamed: 4_level_0 Unnamed: 5_level_0  \
+                   xG               PSxG            Outcome   
+0                0.20                NaN           Woodwork   
+1                0.28               0.68               Goal   
+2                0.02               0.22              Saved   
+3                0.02               0.06              Saved   
+5                0.04               0.03              Saved   
+6                0.33               0.84              Saved   
+7                0.05                NaN         Off Target   
+8                0.02                NaN            Blocked   
+9                0.05                NaN         Off Target   
+10               0.02                NaN         Off Target   
+11               0.05                NaN         Off Target   
+12               0.08                NaN            Blocked   
+13               0.02                NaN         Off Target   
+14               0.07               0.04              Saved   
+15               0.02               0.04              Saved   
+16               0.07                NaN         Off Target   
+17               0.01                NaN            Blocked   
+18               0.06                NaN            Blocked   
+19               0.02                NaN         Off Target   
+20               0.03                NaN         Off Target   
+21               0.10               0.06              Saved   
+22               0.02                NaN            Blocked   
+
+   Unnamed: 6_level_0 Unnamed: 7_level_0 Unnamed: 8_level_0  \
+             Distance          Body Part              Notes   
+0                10.0         Right Foot                NaN   
+1                14.0          Left Foot                NaN   
+2                28.0         Right Foot                NaN   
+3                27.0         Right Foot             Volley   
+5                26.0         Right Foot          Deflected   
+6                 5.0          Left Foot                NaN   
+7                16.0          Left Foot                NaN   
+8                17.0          Left Foot                NaN   
+9                15.0          Left Foot                NaN   
+10               28.0         Right Foot             Volley   
+11               25.0         Right Foot                NaN   
+12               25.0          Left Foot                NaN   
+13               24.0          Left Foot                NaN   
+14               10.0          Left Foot             Volley   
+15               28.0         Right Foot                NaN   
+16               15.0         Right Foot                NaN   
+17               25.0         Right Foot                NaN   
+18               14.0          Left Foot                NaN   
+19               31.0         Right Foot                NaN   
+20               32.0         Right Foot                NaN   
+21               17.0          Left Foot                NaN   
+22               13.0               Head                NaN   
+
+                         SCA 1                                     SCA 2  \
+                        Player         Event                      Player   
+0        Khvicha Kvaratskhelia   Pass (Live)       Khvicha Kvaratskhelia   
+1                  Rafael Leão   Pass (Live)              Olivier Giroud   
+2           Ruben Loftus-Cheek   Pass (Live)             Ismaël Bennacer   
+3               Theo Hernández   Pass (Live)             Ismaël Bennacer   
+5                  Yacine Adli   Pass (Live)              Theo Hernández   
+6          Alessandro Florenzi          Shot                         NaN   
+7            Stanislav Lobotka   Pass (Live)           Stanislav Lobotka   
+8           Ruben Loftus-Cheek   Pass (Live)              Olivier Giroud   
+9                  Yacine Adli   Pass (Live)           Christian Pulisic   
+10               Matteo Gabbia        Tackle                         NaN   
+11            Giovanni Simeone  Interception                         NaN   
+12                         NaN           NaN                         NaN   
+13  Andre-Frank Zambo Anguissa   Pass (Live)         Giovanni Di Lorenzo   
+14              Olivier Giroud   Pass (Live)                 Yacine Adli   
+15           Stanislav Lobotka   Pass (Live)         Giovanni Di Lorenzo   
+16                 Yunus Musah   Pass (Live)         Alessandro Florenzi   
+17               Amir Rrahmani   Pass (Live)             Piotr Zieliński   
+18             Mathías Olivera   Pass (Live)            Jesper Lindstrøm   
+19             Matteo Politano   Pass (Live)  Andre-Frank Zambo Anguissa   
+20            Jesper Lindstrøm   Pass (Live)             Mathías Olivera   
+21       Khvicha Kvaratskhelia   Pass (Live)           Giacomo Raspadori   
+22            Jesper Lindstrøm   Pass (Dead)         Giovanni Di Lorenzo   
+
+                  
+           Event  
+0        Take-On  
+1    Pass (Live)  
+2    Pass (Live)  
+3    Pass (Live)  
+5    Pass (Live)  
+6            NaN  
+7         Tackle  
+8    Pass (Live)  
+9    Pass (Live)  
+10           NaN  
+11           NaN  
+12           NaN  
+13   Pass (Live)  
+14   Pass (Dead)  
+15   Pass (Live)  
+16  Interception  
+17   Pass (Live)  
+18   Pass (Live)  
+19   Pass (Live)  
+20   Pass (Live)  
+21   Pass (Live)  
+22          Shot  "
